@@ -1,0 +1,63 @@
+*{
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+body{
+  height: 100%;
+  background-image:  url("https://bolamundi2022.000webhostapp.com/img/selecoes/backgroundtodasasselecoes.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+h1{
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  margin-top: 35px;
+}
+
+               .navbar {
+          width: 100%;
+          background-color: #990033;
+          overflow: auto;
+          height: 4.3%;
+        }
+        
+        .navbar a {
+          float: left;
+          padding: 13px;
+          color: white;
+          text-decoration: none;
+          font-size: 17px;
+          margin-left: 2%;
+          font-family: sans-serif;
+        }
+
+        .navbar i {
+          margin-right: 10px;
+        }
+        
+        .navbar a:hover {
+          background-color:  #660022;
+        }
+        
+        .a active {
+          background-color:  #660022;
+        }
+        
+        @media screen and (max-width: 500px) {
+          .navbar a {
+            float: none;
+            display: block;
+          }
+        }
