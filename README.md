@@ -1,2 +1,2 @@
-# Projeto-Final
-TCC do curso técnico em informática da FAETEC
+# BolaMundi
+ TCC do curso técnico em informática da FAETEC
